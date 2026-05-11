@@ -33,4 +33,4 @@ RED → GREEN → YELLOW → RED
 ![Waveform](docs/waveform.png)
 
 ## Author
-Your Name
+Meghana
